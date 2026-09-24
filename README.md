@@ -40,7 +40,3 @@ A development environment and hands-on learning sandbox demonstrating modern Sas
 1. Inspect or modify files in the `scss/` directory.
 2. The npm watch task automatically processes and compiles changes to `dist/css/main.css`.
 3. Open `dist/index.html` in your browser to inspect applied styles.
-
-## License
-
-This project is licensed under the [ISC License](LICENSE).
