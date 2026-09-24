@@ -21,8 +21,8 @@ A development environment and hands-on learning sandbox demonstrating modern Sas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AntonioHellin/sass_sandbox.git
-   cd sass_sandbox
+   git clone https://github.com/AntonioHellin/sass-workflow-sandbox.git
+   cd sass-workflow-sandbox
    ```
 
 2. Install dependencies:
